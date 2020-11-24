@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd87f0d8-dcc2-408a-910f-cb056c099e26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kaVeqPAF5Ur7apOAoFVdZaC3OD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/generic/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/generic/src/main/resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.HomePageValidations">
+    <configuration name="generic [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/generic" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="HomePageValidations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ebaytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ebaytest" />
+      <option name="MAIN_CLASS_NAME" value="com.ebaytest.HomePageValidations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomePageValidations" />
+        <item itemvalue="Maven.generic [test]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd87f0d8-dcc2-408a-910f-cb056c099e26" name="Default Changelist" comment="" />
+      <created>1605935498004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605935498004</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="185" y="0" key="#Project_Structure" timestamp="1606027337182">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="185" y="0" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1606027337182" />
+    <state x="208" y="31" key="#Project_Structure/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1605937599651" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606098097789">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606098097789" />
+    <state x="420" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606186039476">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="420" y="259" key="#com.intellij.fileTypes.FileTypeChooser/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606186039476" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606094870265">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606094870265" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1606186403753">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606186403753" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1606176886688">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/88.-697.1280.697/0.0.1440.900@0.0.1440.900" timestamp="1606099590331" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/88.-720.1280.720/0.0.1440.845@0.0.1440.845" timestamp="1606109016037" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606176886688" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1606176886686">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.center/88.-697.1280.697/0.0.1440.900@0.0.1440.900" timestamp="1606099590327" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center/88.-720.1280.720/0.0.1440.845@0.0.1440.845" timestamp="1606109016035" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606176886686" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1606176886684">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.left/88.-697.1280.697/0.0.1440.900@0.0.1440.900" timestamp="1606099590319" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left/88.-720.1280.720/0.0.1440.845@0.0.1440.845" timestamp="1606109016034" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606176886684" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1606176886687">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.right/88.-697.1280.697/0.0.1440.900@0.0.1440.900" timestamp="1606099590329" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right/88.-720.1280.720/0.0.1440.845@0.0.1440.845" timestamp="1606109016036" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606176886687" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1606101313391">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/88.-697.1280.697/0.0.1440.900@0.0.1440.900" timestamp="1606099590338" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606101313391" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1606101313388">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/88.-697.1280.697/0.0.1440.900@0.0.1440.900" timestamp="1606099590334" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606101313388" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1606101313387">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/88.-697.1280.697/0.0.1440.900@0.0.1440.900" timestamp="1606099590332" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606101313387" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1606101313389">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/88.-697.1280.697/0.0.1440.900@0.0.1440.900" timestamp="1606099590337" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606101313389" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1606096370303">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606096370303" />
+    <state width="254" height="200" key="RunAnythingAction_Filter_Popup" timestamp="1606097581727">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="254" height="200" key="RunAnythingAction_Filter_Popup/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606097581727" />
+    <state x="208" y="29" key="SettingsEditor" timestamp="1606108954983">
+      <screen x="0" y="0" width="1440" height="845" />
+    </state>
+    <state x="208" y="29" key="SettingsEditor/88.-720.1280.720/0.0.1440.845@0.0.1440.845" timestamp="1606108954983" />
+    <state x="208" y="31" key="SettingsEditor/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606100247341" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606094649556">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606094649556" />
+    <state x="176" y="126" key="new project wizard" timestamp="1605937678097">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="176" y="126" key="new project wizard/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1605937678097" />
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1606100711020">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup/88.-720.1280.720/0.0.1440.900@0.0.1440.900" timestamp="1606100711020" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WebAutomationNov2020$HomePageValidations.ic" NAME="HomePageValidations Coverage Results" MODIFIED="1606099590112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ebaytest.*</FILTER>
+    </SUITE>
+  </component>
+</project>

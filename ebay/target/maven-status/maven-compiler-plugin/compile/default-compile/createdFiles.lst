@@ -1,0 +1,4 @@
+data/DataProviders.class
+pages/RegisterPage.class
+pages/LoginPage.class
+pages/HomePage.class

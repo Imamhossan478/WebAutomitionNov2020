@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 9.113 s <<< FAILURE! - in TestSuite
+fieldsValidationOnRegisterPage(com.ebaytest.HomePageValidations)  Time elapsed: 2.761 s  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	expected [Lat Name] but found [Last Name]
+	at com.ebaytest.HomePageValidations.fieldsValidationOnRegisterPage(HomePageValidations.java:62)
+
